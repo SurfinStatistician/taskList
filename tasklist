@@ -1,37 +1,37 @@
-# Surfin' Statistician Task List, Version One
+# Surfin Statistician
+##First Edition Task List
+###Core Competencies for Students Learning Regression Analysis
+This list of core competencies is licensed under Creative Commons 4.0 - BY - ND. 
+It was developed by Robert Miller, PhD, with some production assistance from Benjamin Theisen.
 
-## Regression
-A-01 Explain the phrase "fit of the model with the data"
-A-02a Explain in your own words the benchmarks for MCC (R value)
-A-02b Explain in your own words the benchmarks for standardized regression coefficient values
-A-03 Explain in your own words what the regression coefficient is (unstandardized and standardized)
 
-A-04a Explain in your own words what the unstandardized regression coefficient value means.
-A-04b Explain in your own words what the standardized regression coefficient value means.
-A-04c Explain in your own words when you would use the unstandardized reg. coef. value over the stand. reg. coeff. value.
-A-04d State how standardized reg. coef. are used to describe the importance of predictor variables.
-A-05 Explain in your own words the phrase "the proportion of the variance in the outcome variable explained by the model."
+List below has weird numbering with letters. The rationale for lettering is to show grouping of related task lists.
 
-A-06 Explain in your own words the distinction b/t variable of primary interest (VPI) and control variables
-
-A-07a Explain in your own words the difference between association and effect
-A-07b Explain in your own words the difference between an association statement and effect statement for making decisions.
-A-07c Explain in your own words what needs to be done in an analysis to move from statements of association to statements of effect (take control variables effects into account, then look to unique effects of VPI)
-
-A-09 Explain in your own words what the outcome variable is
-A-10 Explain in your own words what the predictor variable is
-A-11 Explain in your own words what the R^2 value means
-A-12 Provide an example of a regression equation with two predictor variables
-A-13 Provide an example of a regression equation with six predictor variables
-A-14 Explain in your own words what it means when one says "a model is a good fit with the data"
-A-15 Explain in your own words what it means when one says "a model is a poor fit with the data"
-A-16 Describe in your own words the AMC approach for reading a regression output
-
-A-17a Explain in your own words the basic purpose of regression
-A-17a Explain in your own words the value of doing a regression analysis
-A-17a Explain in your own words what you learn from a regression analysis (Answer is what influences performance on the outcome variable measure)
-
-A-18 Explain in your own words why it is important to have a reliable and valid measure of the outcome variable construct. (Reason: If not valid and reliable, you can take it a step further to about why people vary (not on the measure, but people themselves.)
-
-A-26 Interactions and regression
-A-27 Regression for explanation and prediction purposes
+SSv1 Task List (Starts at line #11 to make counting by line numbering easier)
+1   Explain the phrase "fit of the model with the data"
+2a  Explain in your own words the benchmarks for MCC (R value)
+2b  Explain in your own words the benchmarks for standardized regression coefficient values
+3   Explain in your own words what the regression coefficient is (unstandardized and standardized)
+4a  Explain in your own words what the unstandardized regression coefficient value means.
+4b  Explain in your own words what the standardized regression coefficient value means.
+4c  Explain in your own words when you would use the unstandardized reg. coef. value over the stand. reg. coeff. value. 
+4d  State how standardized reg. coef. are used to describe the importance of predictor variables.
+5   Explain in your own words the phrase "the proportion of the variance in the outcome variable explained by the model."
+6   Explain in your own words the distinction b/t variable of primary interest (VPI) and control variables
+7a  Explain in your own words the difference between association and effect
+7b  Explain in your own words the difference between an association statement and effect statement for making decisions.
+7c  Explain in your own words what needs to be done in an analysis to move from statements of association to statements of effect (take control variables effects into account, then look to unique effects of VPI)
+8   Explain in your own words what the outcome variable is
+9   Explain in your own words what the predictor variable is
+10  Explain in your own words what the R^2 value means
+11  Provide an example of a regression equation with two predictor variables
+12  Provide an example of a regression equation with six predictor variables
+13  Explain in your own words what it means when one says "a model is a good fit with the data"
+14  Explain in your own words what it means when one says "a model is a poor fit with the data"
+15  Describe in your own words the AMC approach for reading a regression output
+16a Explain in your own words the basic purpose of regression
+16a Explain in your own words the value of doing a regression analysis
+16b Explain in your own words what you learn from a regression analysis (Answer is what influences performance on the outcome variable measure)
+17  Explain in your own words why it is important to have a reliable and valid measure of the outcome variable construct. (Reason: If not valid and reliable, you can take it a step further to about why people vary (not on the measure, but people themselves.)
+18  Interpret interactions in regression
+19 Use Regression for explanation and prediction purposes
