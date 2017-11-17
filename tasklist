@@ -1,0 +1,37 @@
+# Surfin' Statistician Task List, Version One
+
+## Regression
+A-01 Explain the phrase "fit of the model with the data"
+A-02a Explain in your own words the benchmarks for MCC (R value)
+A-02b Explain in your own words the benchmarks for standardized regression coefficient values
+A-03 Explain in your own words what the regression coefficient is (unstandardized and standardized)
+
+A-04a Explain in your own words what the unstandardized regression coefficient value means.
+A-04b Explain in your own words what the standardized regression coefficient value means.
+A-04c Explain in your own words when you would use the unstandardized reg. coef. value over the stand. reg. coeff. value.
+A-04d State how standardized reg. coef. are used to describe the importance of predictor variables.
+A-05 Explain in your own words the phrase "the proportion of the variance in the outcome variable explained by the model."
+
+A-06 Explain in your own words the distinction b/t variable of primary interest (VPI) and control variables
+
+A-07a Explain in your own words the difference between association and effect
+A-07b Explain in your own words the difference between an association statement and effect statement for making decisions.
+A-07c Explain in your own words what needs to be done in an analysis to move from statements of association to statements of effect (take control variables effects into account, then look to unique effects of VPI)
+
+A-09 Explain in your own words what the outcome variable is
+A-10 Explain in your own words what the predictor variable is
+A-11 Explain in your own words what the R^2 value means
+A-12 Provide an example of a regression equation with two predictor variables
+A-13 Provide an example of a regression equation with six predictor variables
+A-14 Explain in your own words what it means when one says "a model is a good fit with the data"
+A-15 Explain in your own words what it means when one says "a model is a poor fit with the data"
+A-16 Describe in your own words the AMC approach for reading a regression output
+
+A-17a Explain in your own words the basic purpose of regression
+A-17a Explain in your own words the value of doing a regression analysis
+A-17a Explain in your own words what you learn from a regression analysis (Answer is what influences performance on the outcome variable measure)
+
+A-18 Explain in your own words why it is important to have a reliable and valid measure of the outcome variable construct. (Reason: If not valid and reliable, you can take it a step further to about why people vary (not on the measure, but people themselves.)
+
+A-26 Interactions and regression
+A-27 Regression for explanation and prediction purposes
