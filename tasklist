@@ -1,11 +1,20 @@
 # Surfin Statistician
 ## First Edition Task List
 ### Core Competencies for Students Learning Regression Analysis
-This list of core competencies is licensed under Creative Commons 4.0 - BY - ND. 
-It was developed by Robert Miller, PhD, with some production assistance from Benjamin Theisen.
+This list of core competencies is licensed under Creative Commons 4.0 - BY - ND.
+It was developed by:
+Robert Miller, PhD
+Benjamin Theisen
 
 
 List below has weird numbering with letters. The rationale for lettering is to show grouping of related task lists.
+
+For each item:
+Concept (Definition/Description)
+Examples
+Relevant literature
+Related Items
+
 
 SSv1 Task List (Starts at line #11 to make counting by line numbering easier)
 1   Explain the phrase "fit of the model with the data"
@@ -14,7 +23,7 @@ SSv1 Task List (Starts at line #11 to make counting by line numbering easier)
 3   Explain in your own words what the regression coefficient is (unstandardized and standardized)
 4a  Explain in your own words what the unstandardized regression coefficient value means.
 4b  Explain in your own words what the standardized regression coefficient value means.
-4c  Explain in your own words when you would use the unstandardized reg. coef. value over the stand. reg. coeff. value. 
+4c  Explain in your own words when you would use the unstandardized reg. coef. value over the stand. reg. coeff. value.
 4d  State how standardized reg. coef. are used to describe the importance of predictor variables.
 5   Explain in your own words the phrase "the proportion of the variance in the outcome variable explained by the model."
 6   Explain in your own words the distinction b/t variable of primary interest (VPI) and control variables
@@ -25,7 +34,7 @@ SSv1 Task List (Starts at line #11 to make counting by line numbering easier)
 9   Explain in your own words what the predictor variable is
 10  Explain in your own words what the R^2 value means
 11  Provide an example of a regression equation with two predictor variables
-12  Provide an example of a regression equation with six predictor variables
+12  Provide an example of a regression equation with five predictor variables
 13  Explain in your own words what it means when one says "a model is a good fit with the data"
 14  Explain in your own words what it means when one says "a model is a poor fit with the data"
 15  Describe in your own words the AMC approach for reading a regression output
@@ -35,3 +44,38 @@ SSv1 Task List (Starts at line #11 to make counting by line numbering easier)
 17  Explain in your own words why it is important to have a reliable and valid measure of the outcome variable construct. (Reason: If not valid and reliable, you can take it a step further to about why people vary (not on the measure, but people themselves.)
 18  Interpret interactions in regression
 19 Use Regression for explanation and prediction purposes
+
+20 Explain what is meant by "controlling for the effects of the predictor variable."
+20a. Sketch #20 (a Venn diagram of predictor variables in a multiple regression model, showing unique efffects (above and beyond combined effect).
+20b. Label the parts of the Venn diagram:
+outcome variable
+Five predictors
+Estimated R value
+Estimated R^2 value
+Locate the Pearson's r with a shading color (pencil?), as non-unique (overlap) areas on the outcome variable
+  (...without controlling for the effects of other variables.
+  (It's the bivariate sharing of variance, without the unique effect.)
+Using accent color, label the unique effect for each predictor.
+20c. (We need something about suppressor variables in behavioral terms.) Identify possible presence of a suppressor variables. (Regression coefficient unique effect would be more than a Pearson's r.)
+
+
+
+State the difference between R^2 squared as a "proportion" vs. "percentage."
+
+Reporting APA Format:
+t
+F
+M
+SD
+SE
+
+
+
+Section: Variables
+r
+R
+R^2
+Adjusted R^2
+Partial eta squared
+Cohen's d
+Omega squared
